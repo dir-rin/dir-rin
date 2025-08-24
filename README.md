@@ -1,3 +1,5 @@
+![Logo](https://img.shields.io/badge/DIRrinn-%23d42828?style=flat-square&label=%E2%9E%A4&labelColor=%23333333)
+
 ```
 There is absolutely nothing to see here.
 ```
